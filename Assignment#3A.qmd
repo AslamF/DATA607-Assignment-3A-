@@ -1,0 +1,9 @@
+---
+title: "Assignment#3A"
+format: html
+editor: visual
+---
+
+# Approach
+
+My approach will be very similar to the confusion matrix assignment and first understand what is being asked in particular what "Global Baseline Estimate" is and what type of value that number provides. I will have to pull in my movie data using the same methods previously from SQLite. So the first step will be the load the data and determine the global mean rating from that data. From the Equation i can see it is Global Estimate = global mean + movie mean vs the global + user rating vs the global.
